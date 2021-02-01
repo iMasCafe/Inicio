@@ -1,0 +1,109 @@
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://github.com/iMasCafe/Home.git" resolutions="1x" timestamp="1612137246864">
+  <folder name="css">
+    <file name="site_global.css" crc="4033363345"/>
+    <file name="index.css" crc="528653471" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:tablet>index:index"/>
+    <file name="museutils.js" crc="3939489907" ref="phone>index:tablet>index:index"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:tablet>index:index"/>
+    <file name="museconfig.js" crc="128606099" ref="phone>index:tablet>index:index"/>
+    <file name="jquery.watch.js" crc="522499760" ref="phone>index:tablet>index:index"/>
+    <file name="require.js" crc="4177726516" ref="phone>index:tablet>index:index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index"/>
+    <file name="jquery.musemenu.js" crc="4139692962" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="312044820" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="4255799273" ref="tablet>index:index"/>
+    <file name="pexels-pixabay-276514.png" crc="4149372836" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="logocafe-crop-u106.png" crc="3899224533" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u121-4.png" crc="375467784" ref="index"/>
+    <file name="down.png" crc="209469752" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="chica.png" crc="4250865568" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u187-4.png" crc="4288309666" ref="index"/>
+    <file name="u191-23.png" crc="4133956916" ref="index"/>
+    <file name="toyou.png" crc="4182256116" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="togo.png" crc="136053314" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tohome.png" crc="4294287548" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u423-4.png" crc="4253758548" ref="index"/>
+    <file name="a.png" crc="3915010756" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="chica2.png" crc="3823371293" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u420-4.png" crc="448826523" ref="index"/>
+    <file name="u417-4.png" crc="4100663939" ref="index"/>
+    <file name="chico.png" crc="271976317" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u414-4.png" crc="183482239" ref="index"/>
+    <file name="mostrador.jpg" crc="4138811497" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u520-4.png" crc="3758267790" ref="index"/>
+    <file name="1.png" crc="4003764897" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2.png" crc="210343705" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u550-4.png" crc="142986778" ref="index"/>
+    <file name="u553-4.png" crc="267686172" ref="index"/>
+    <file name="3.png" crc="4039829786" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4.png" crc="455108836" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u556-4.png" crc="65172578" ref="index"/>
+    <file name="u559-4.png" crc="3986850893" ref="index"/>
+    <file name="b.jpg" crc="163970169" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u620-4.png" crc="3790007250" ref="index"/>
+    <file name="u636-18.png" crc="4264193535" ref="index"/>
+    <file name="u643.png" crc="4091286936" ref="index"/>
+    <file name="u643-r.png" crc="4091286936" ref="index"/>
+    <file name="b cafés para llevar.jpg" crc="356725520" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u698-4.png" crc="4187634135" ref="index"/>
+    <file name="u790-4.png" crc="3998116273" ref="index"/>
+    <file name="u762-4.png" crc="251128890" ref="index"/>
+    <file name="u733-4.png" crc="283603123" ref="index"/>
+    <file name="log 1 blanco sin fondo (2).png" crc="3764174802" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="index.css" crc="3948741586" ref="tablet>index"/>
+    </folder>
+    <file name="index.html" crc="536315383" seo="true" mt="1612128792173" redirect="false"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="279237556" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="187647071" seo="true" mt="1612128792021" redirect="false"/>
+  </folder>
+  <file name="index.html" crc="4172500662" seo="true" mt="1612137231121" redirect="true"/>
+</manifest>
